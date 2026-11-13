@@ -56,4 +56,4 @@ Founder and engineer behind a WhatsApp-native business management platform that 
 
 I'm open to remote opportunities in **Software Engineering, Backend Engineering, and AI Engineering**.
 
-[Email me](mailto\:uzcategui.systems@gmail.com)
+[Email me](mailto:uzcategui.systems@gmail.com)
