@@ -8,7 +8,7 @@ My background is in backend engineering, distributed architectures, and cloud in
 
 ### 🚀 What I'm working on
 
-**Bolos — AI-powered Business Management**
+**[Bolos Business — AI-Powered Business Management](https://github.com/enriqueuz/bolos-business-agent-public)**
 
 Founder and engineer behind a WhatsApp-native business management platform that combines conversational AI with real business operations.
 
